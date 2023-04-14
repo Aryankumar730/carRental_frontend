@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './css/Header.css';
 import logo from './img/amazon.png';
 import SearchIcon from '@mui/icons-material/Search';
@@ -111,19 +111,7 @@ export default function Header() {
                 </div>
 
             </div>
-            <div className="header_below">
-                <div className="header_below_box">
-
-
-                    <Link to='/morecars'>
-                        <span className='header_optionLineTwo categories'>
-                            More Cars
-                        </span>
-                    </Link>
-
-                </div>
-
-            </div>
+            
         </div>
 
             <Alert alert={alert} />

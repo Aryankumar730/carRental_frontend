@@ -68,7 +68,7 @@ export default function Login(props) {
                         <label htmlFor="exampleInputEmail1" className="form-label login_form" >Email address</label>
                         <input type="email" className="form-control" id="email" name='email' aria-describedby="emailHelp"
                             placeholder="Enter your email" value={credentials.email} onChange={onChange}/>
-                        <div id="emailHelp">Test Email : test001@gmail.com</div>
+                        <div id="emailHelp">Test Email : test001@gmail.com (default agency)</div>
                     </div>
                     <div className="mb-3 login_form">
                         <i className="fa-sharp fa-solid fa-key icon px-1"></i>
