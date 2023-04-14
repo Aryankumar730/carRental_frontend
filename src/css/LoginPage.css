@@ -1,0 +1,25 @@
+.body{
+
+    background-color: rgb(136, 183, 229);
+}
+
+.image_body{
+    background: url(../img/HomeSell\ 23-06\ png.png);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-size: ; */
+    height: 100vh;
+    
+   
+           
+}
+.content_box{
+
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}

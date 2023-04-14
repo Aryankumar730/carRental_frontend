@@ -1,0 +1,56 @@
+
+.card{
+    padding: 30px 40px;
+   
+    margin-bottom: 60px;
+    border: none !important;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2)
+}
+.blue-text{
+    color: #00BCD4
+}
+.form-control-label{
+    margin-bottom: 0
+}
+.text-left{
+
+    padding: 5px 0px;
+}
+input, textarea, button{
+    padding: 4px 15px;
+    border-radius: 5px !important;
+    margin: 5px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    /* font-size: 18px !important; */
+    /* font-weight: 100; */
+    font: 15px/1.8 sans-serif;
+}
+input,
+input::placeholder {
+    font: 15px/1.8 sans-serif;
+   
+}
+input:focus, textarea:focus{
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #00BCD4;
+    outline-width: 0;font-weight: 400
+}
+.btn-block{
+    
+    font: 15px/1.8 sans-serif;
+    height: 43px;
+    cursor: pointer;
+    color:black;
+}
+.btn-block:hover{
+    color: #084ec0 !important
+}
+button:focus{
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0
+}

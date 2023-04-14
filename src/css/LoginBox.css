@@ -1,0 +1,46 @@
+/* hr{
+    display: block;
+    height: 2px;
+    width: 360px;
+    border-top: 2px solid black;
+    margin: 1em 0;
+    
+} */
+.container_login{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;;
+    
+}
+
+.myform{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.myform > .login_form{
+
+    width: 300px;
+    margin-top: 18px;
+
+}
+
+.submitBtn{
+
+    width: 200px;
+    border-radius: 15px;
+}
+
+.below_form{
+    padding-top: 20px;
+}

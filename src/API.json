@@ -1,0 +1,105 @@
+[
+    {
+    "Vmodel": " Hyundai Verma ",
+    "Rent": 10000,
+    "Vnumber": "DL 26 PQ 2429",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/8703/1679389180298/front-left-side-47.jpg",
+    "_id": 0,
+    "Scapacity" : 5,
+    "city" : "Delhi",
+    "country" : "India"
+    
+    },
+
+    {
+    "Vmodel": " Audi A4 ",
+    "Rent": 20000,
+    "Vnumber": "GJ 90 PO 0719",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/9321/1670914111785/front-left-side-47.jpg",
+    "id": 1,
+    "Scapacity" : 5,
+    "city" : "Delhi",
+    "country" : "India"
+    
+  
+    },
+
+    {
+    "Vmodel": " Maruti Dzire ",
+    "Rent": 5000,
+    "Vnumber": "HP 45 BH 8769",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift-Dzire/7664/1675859508504/front-left-side-47.jpg",
+    "id": 2,
+    "Scapacity" : 5,
+    "city" : "Delhi",
+    "country" : "India"
+    
+ 
+    },
+
+    {
+    "Vmodel": " Honda City ",
+    "Rent": 8000,
+    "Vnumber": "PJ 78 HJ 2754",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg",
+    "id": 3,
+    "Scapacity" : 5,
+    "city" : "Delhi",
+    "country" : "India"
+    
+  
+    },
+
+    {
+    "Vmodel": "Maruti FRON ",
+    "Rent": 7500,
+    "Vnumber": "JK 34 CV 4929",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/FRONX/9243/1673943130006/front-left-side-47.jpg",
+    "id": 4,
+    "Scapacity" : 7,
+    "city" : "Delhi",
+    "country" : "India"
+    
+   
+    },
+
+    {
+    "Vmodel": "Citroen C3 ",
+    "Rent": 7500,
+    "Vnumber": "UK 30 HR 2227",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Citroen/C3/9139/1677916330735/front-left-side-47.jpg",
+    "id": 5,
+    "Scapacity" : 7,
+    "city" : "Delhi",
+    "country" : "India"
+    
+   
+    },
+
+    {
+    "Vmodel": " Skoda Slavia ",
+    "Rent": 9000,
+    "Vnumber": "HR 80 KL 5679",
+    "link": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Slavia/7257/1637233583147/front-left-side-47.jpg",
+    "id": 6,
+    "Scapacity" : 6,
+    "city" : "Delhi",
+    "country" : "India"
+    
+ 
+    },
+
+    {
+    "Vmodel": "Lamborghini Revuelto ",
+    "Rent": 25000,
+    "Vnumber": "CH 69 PS 0007",
+    "link": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/revuelto/gallery/s5.jpg",
+    "id": 7,
+    "Scapacity" : 2,
+    "city" : "Delhi",
+    "country" : "India"
+    
+    
+    }
+
+]
